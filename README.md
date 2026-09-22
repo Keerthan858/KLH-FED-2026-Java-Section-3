@@ -24,6 +24,15 @@ The program simulates basic ATM operations such as PIN verification, balance che
 
 ---
 
+## 📁 Repository & Submission Contents
+
+* **Java File (`.java`):**  
+  * `atmTransactionSimulator.java` — Contains the code for the project.
+* **Project Abstract in word document (`.docx`):**  
+  * `ATM Transaction Project - Abstract.docx` — Abstract of the project.
+
+---
+
 ## 💻 Project Features
 
 - PIN verification
