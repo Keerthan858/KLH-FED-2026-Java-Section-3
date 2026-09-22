@@ -39,9 +39,7 @@ The program simulates basic ATM operations such as PIN verification, balance che
 - Check account balance
 - Deposit money
 - Withdraw money
-- Validate transaction amounts
 - Check for insufficient balance
-- View transaction history
 - Exit the ATM system
 
 ---
@@ -81,10 +79,8 @@ The program simulates basic ATM operations such as PIN verification, balance che
    - Check Balance
    - Deposit Money
    - Withdraw Money
-   - View Transactions
    - Exit
-6. Successful deposits and withdrawals are stored in the transaction history.
-7. The user can continue performing operations until Exit is selected.
+6. The user can continue performing operations until Exit is selected.
 
 ---
 
