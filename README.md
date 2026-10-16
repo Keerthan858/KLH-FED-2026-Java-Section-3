@@ -28,10 +28,8 @@ The program simulates basic ATM operations such as PIN verification, balance che
 
 * **Java File (`.java`):**  
   * `atmTransactionSimulator.java` — Contains the code for the project.
-* **Project Abstract in word document (`.docx`):**  
-  * `ATM Transaction Project - Abstract.docx` — Abstract of the project.
-* **Generated File (`.txt`):**  
-  * `transactions.txt` — Created automatically when the first transaction is made. Stores one record per line in the format `TYPE,amount,balanceAfter`.
+* **Project Presentation in PPT (`.pptx`):**  
+  * `ATM_Transaction_Simulator_Presentation.pptx` — Presentation of the project.
 
 ---
 
